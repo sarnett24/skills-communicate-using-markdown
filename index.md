@@ -23,3 +23,8 @@ I added a message for each header size. I just wanted to test out what they look
 
 
 ![Large_Bananas_PNG_Clipart](https://github.com/user-attachments/assets/962e2b01-b7f3-42f9-bd2a-a8c975d1f914)
+
+
+```` javascript
+var myVar = "Today is a beautiful day!";
+````
