@@ -28,3 +28,9 @@ I added a message for each header size. I just wanted to test out what they look
 ```` javascript
 var myVar = "Today is a beautiful day!";
 ````
+
+
+
+- [ ] Learn about GitHub
+- [ ] Learn about Markdown
+- [ ] Learn! Learn! Learn!
